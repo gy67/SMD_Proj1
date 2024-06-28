@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OreSimOriginalTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-19T05:35:49" hostname="YandeMacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="testOreBeforePush" classname="OreSimOriginalTest" time="0.003"/>
+  <testcase name="testOreAfterPush" classname="OreSimOriginalTest" time="0.0"/>
+  <testcase name="testOreEnd" classname="OreSimOriginalTest" time="0.005"/>
+  <system-out><![CDATA[ores = [ore.Element.Ore@10a9d961, ore.Element.Ore@130e116b]
+oreTestData = {EXCAVATOR=[], TARGET=[17-8], ORE=[17-7, 5-2], ROCK=[6-5, 6-6], BULLDOZER=[], PUSHER=[17-6], CLAY=[7-6, 6-8, 7-8, 8-8, 7-5]}
+oreTestData = {EXCAVATOR=[], TARGET=[17-7], ORE=[17-8, 5-2], ROCK=[6-5, 6-6], BULLDOZER=[], PUSHER=[17-7], CLAY=[7-6, 6-8, 7-8, 8-8, 7-5]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
